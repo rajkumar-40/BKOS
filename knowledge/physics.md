@@ -4,7 +4,7 @@ SUBJECT NAME: Physics
 
 DESCRIPTION
 
-Physics is the study of matter, energy, force, motion, space, time and the laws that govern the universe.
+Physics is the study of matter, energy, force, motion, space, time and the laws governing the universe.
 
 EXAM CONNECTIONS
 
@@ -19,11 +19,9 @@ NDA
 CDS
 AFCAT
 GATE
+UPSC
 ISRO
 DRDO
-Railway
-SSC
-UPSC
 
 CAREER CONNECTIONS
 
@@ -33,12 +31,13 @@ Researcher
 Teacher
 ISRO Scientist
 DRDO Scientist
-Defence Officer
 Astronomer
 Aerospace Engineer
 Electrical Engineer
 
-CHAPTER 01: Motion
+CHAPTERS
+
+01 Motion
 
 Topics
 
@@ -47,109 +46,55 @@ Displacement
 Speed
 Velocity
 Acceleration
-Motion Graphs
 
 ------------------------------------------------
 
-CHAPTER 02: Force
+02 Force
 
 Topics
 
 Force
 Inertia
-Newton’s Laws
+Newton Laws
 Momentum
 Impulse
 
 ------------------------------------------------
 
-CHAPTER 03: Work Energy Power
+03 Work Energy Power
 
 Topics
 
 Work
 Energy
-Kinetic Energy
-Potential Energy
 Power
 Conservation of Energy
 
 ------------------------------------------------
 
-CHAPTER 04: Gravitation
+04 Gravitation
 
 Topics
 
 Gravity
 Mass
 Weight
-Universal Gravitation
 Satellites
 
 ------------------------------------------------
 
-CHAPTER 05: Properties of Matter
-
-Topics
-
-Density
-Pressure
-Elasticity
-Viscosity
-Surface Tension
-
-------------------------------------------------
-
-CHAPTER 06: Heat and Thermodynamics
-
-Topics
-
-Temperature
-Heat
-Specific Heat
-Thermodynamics
-Heat Transfer
-
-------------------------------------------------
-
-CHAPTER 07: Waves and Sound
-
-Topics
-
-Waves
-Frequency
-Amplitude
-Sound
-Echo
-Ultrasound
-
-------------------------------------------------
-
-CHAPTER 08: Light and Optics
-
-Topics
-
-Reflection
-Refraction
-Mirror
-Lens
-Optical Instruments
-
-------------------------------------------------
-
-CHAPTER 09: Electricity
+05 Electricity
 
 Topics
 
 Current
 Voltage
 Resistance
-Ohm's Law
-Electrical Power
+Ohm Law
 
 ------------------------------------------------
 
-CHAPTER 10: Magnetism
+06 Magnetism
 
 Topics
 
@@ -160,62 +105,33 @@ Generator
 
 ------------------------------------------------
 
-CHAPTER 11: Modern Physics
+07 Light
 
 Topics
 
-Atom
-Nucleus
-Radioactivity
-Semiconductors
-Quantum Physics
+Reflection
+Refraction
+Lens
+Mirror
 
 ------------------------------------------------
 
-CHAPTER 12: Space Science
+08 Sound
 
 Topics
 
-Solar System
-Stars
-Galaxies
-Black Holes
-Space Missions
+Wave
+Frequency
+Amplitude
+Echo
 
-SKILLS DEVELOPED
+SKILLS
 
-Analytical Thinking
-Logical Thinking
 Problem Solving
-Scientific Reasoning
-Mathematical Application
-
-LEARNING FLOW
-
-Chapter
-↓
-Topic
-↓
-Concept
-↓
-Question
-↓
-Practice
-↓
-Revision
-↓
-Mastery
-
-MASTERY RULE
-
-10 Consecutive Correct Answers
-
-100% Confidence
-
-Revision Completed
-
-Within Time Limit
+Logical Thinking
+Scientific Thinking
 
 VERSION
 
 1.0
+`
