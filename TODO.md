@@ -1,27 +1,23 @@
-BKOS PRINCIPLES
+Milestone 1
 
-Knowledge First
+✅ Repository Created
 
-Concept First
+✅ Product Definition
 
-Mobile First
+✅ Subject Structure
 
-Offline First
+✅ Knowledge Graph
 
-Simple First
+✅ MVP Definition
 
-Build Small
+⬜ Frontend Development
 
-Scale Later
+⬜ Backend Development
 
-Working Product > Perfect Product
+⬜ Database Design
 
-No Duplicate Data
+⬜ First Working Application
 
-No Orphan Data
+⬜ First User Login
 
-Every Question Must Belong To A Topic
-
-Every Topic Must Belong To A Chapter
-
-Every Chapter Must Belong To A Subject
+⬜ First Question Attempt
