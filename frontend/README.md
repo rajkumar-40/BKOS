@@ -15,3 +15,7 @@ Tailwind CSS
 Responsive
 
 Mobile First
+
+Offline Ready
+ 
+Progressive Web App Ready
