@@ -1,7 +1,17 @@
-knowledge
+SUBJECT
 
-physics.md
-chemistry.md
-mathematics.md
-biology.md
-english.md
+Physics
+
+CHAPTERS
+
+Motion
+
+Force
+
+Work Energy Power
+
+Gravitation
+
+Electricity
+
+Magnetism
