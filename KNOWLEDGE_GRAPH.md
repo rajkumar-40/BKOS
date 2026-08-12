@@ -1,4 +1,8 @@
+BKOS KNOWLEDGE GRAPH
+
 Subject
+↓
+Chapter
 ↓
 Topic
 ↓
@@ -8,6 +12,12 @@ Question
 ↓
 Answer
 ↓
+Practice
+↓
 Revision
 ↓
 Mastery
+↓
+Skill
+↓
+Career
