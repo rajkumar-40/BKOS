@@ -1,10 +1,26 @@
-BACKEND
+BKOS BACKEND
 
-Purpose:
+PURPOSE
 
-Business Logic
+Manage business logic.
 
-Technology:
+RESPONSIBILITIES
+
+Authentication
+
+Knowledge Management
+
+Question Management
+
+Attempts
+
+Mistakes
+
+Revision
+
+Analytics
+
+Technology
 
 Node.js
 
@@ -12,6 +28,8 @@ Express
 
 REST API
 
-Authentication
+PostgreSQL
 
-Database Integration
+Version
+
+1.0
