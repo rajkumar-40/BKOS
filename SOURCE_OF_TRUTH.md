@@ -1,35 +1,60 @@
-BKOS MASTER RULES
+BKOS ARCHITECTURE GOVERNANCE RULE
 
-Concept First
+Once a file, folder, entity, module, table, API, or architecture path
+is officially declared and committed to the repository:
 
-Knowledge First
+DO NOT:
 
-Offline First
+- Rename files
+- Rename folders
+- Rename modules
+- Rename entities
+- Rename APIs
+- Change folder hierarchy
+- Change database structure
+- Change knowledge graph hierarchy
+- Change project sequence
 
-Mobile First
+UNLESS:
 
-No Orphan Data
+- A documented architecture review is completed
+AND
+- Version increment is approved
 
-Every item must connect:
+Changes must be:
 
-Subject
-↓
-Chapter
-↓
-Topic
-↓
-Concept
-↓
-Question
+Documented
+Versioned
+Traceable
 
-Do Not:
+Rule:
 
-Rename Tables
+Extend Architecture
+Do Not Randomly Modify Architecture
 
-Rename APIs
+Example:
 
-Change Entity Names
+Valid:
 
-Create Duplicate Models
+BKOS/database/tables/
+├── users.md
+├── subjects.md
 
-Create Duplicate Services
+Future additions:
+├── careers.md
+├── scholarships.md
+
+Invalid:
+
+Rename:
+users.md → students.md
+
+Rename:
+database/ → db/
+
+Rename:
+knowledge/ → learning/
+
+Without Architecture Review
+
+Single Source Of Truth Applies.
