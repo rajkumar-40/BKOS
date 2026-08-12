@@ -1,21 +1,35 @@
-All development must follow BKOS architecture.
+BKOS MASTER RULES
 
-Rules:
+Concept First
 
-Do not rename entities.
+Knowledge First
 
-Do not rename tables.
+Offline First
 
-Do not duplicate modules.
+Mobile First
 
-Concept is the core object.
+No Orphan Data
 
-Every object must connect to:
+Every item must connect:
 
+Subject
+↓
+Chapter
+↓
+Topic
+↓
 Concept
-→ Topic
-→ Subject
-→ Exam
-→ Career
+↓
+Question
 
-No orphan data allowed.
+Do Not:
+
+Rename Tables
+
+Rename APIs
+
+Change Entity Names
+
+Create Duplicate Models
+
+Create Duplicate Services
