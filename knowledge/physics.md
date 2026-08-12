@@ -4,20 +4,7 @@ SUBJECT NAME: Physics
 
 DESCRIPTION
 
-Physics is the study of matter, energy, motion, forces, space, time and the fundamental laws governing the universe.
-
-CAREER CONNECTIONS
-
-Engineering
-Defence
-Research
-ISRO
-DRDO
-Aerospace
-Robotics
-AI Hardware
-Medical Technology
-Space Science
+Physics is the study of matter, energy, force, motion, space, time and the laws that govern the universe.
 
 EXAM CONNECTIONS
 
@@ -36,11 +23,22 @@ ISRO
 DRDO
 Railway
 SSC
-UPSC Science
+UPSC
 
-CHAPTERS
+CAREER CONNECTIONS
 
-01 Motion
+Engineer
+Scientist
+Researcher
+Teacher
+ISRO Scientist
+DRDO Scientist
+Defence Officer
+Astronomer
+Aerospace Engineer
+Electrical Engineer
+
+CHAPTER 01: Motion
 
 Topics
 
@@ -49,24 +47,23 @@ Displacement
 Speed
 Velocity
 Acceleration
-Graphs of Motion
+Motion Graphs
 
---------------------------------
+------------------------------------------------
 
-02 Force
+CHAPTER 02: Force
 
 Topics
 
 Force
 Inertia
-Newton Laws
+Newton’s Laws
 Momentum
 Impulse
-Applications
 
---------------------------------
+------------------------------------------------
 
-03 Work Energy Power
+CHAPTER 03: Work Energy Power
 
 Topics
 
@@ -77,9 +74,9 @@ Potential Energy
 Power
 Conservation of Energy
 
---------------------------------
+------------------------------------------------
 
-04 Gravitation
+CHAPTER 04: Gravitation
 
 Topics
 
@@ -87,12 +84,11 @@ Gravity
 Mass
 Weight
 Universal Gravitation
-Escape Velocity
 Satellites
 
---------------------------------
+------------------------------------------------
 
-05 Properties of Matter
+CHAPTER 05: Properties of Matter
 
 Topics
 
@@ -102,21 +98,21 @@ Elasticity
 Viscosity
 Surface Tension
 
---------------------------------
+------------------------------------------------
 
-06 Heat and Thermodynamics
+CHAPTER 06: Heat and Thermodynamics
 
 Topics
 
 Temperature
-Heat Transfer
+Heat
 Specific Heat
 Thermodynamics
-Laws of Thermodynamics
+Heat Transfer
 
---------------------------------
+------------------------------------------------
 
-07 Waves and Sound
+CHAPTER 07: Waves and Sound
 
 Topics
 
@@ -127,58 +123,56 @@ Sound
 Echo
 Ultrasound
 
---------------------------------
+------------------------------------------------
 
-08 Light and Optics
+CHAPTER 08: Light and Optics
 
 Topics
 
 Reflection
 Refraction
-Mirrors
-Lenses
+Mirror
+Lens
 Optical Instruments
 
---------------------------------
+------------------------------------------------
 
-09 Electricity
+CHAPTER 09: Electricity
 
 Topics
 
 Current
 Voltage
 Resistance
-Ohms Law
-Electric Circuit
+Ohm's Law
 Electrical Power
 
---------------------------------
+------------------------------------------------
 
-10 Magnetism
+CHAPTER 10: Magnetism
 
 Topics
 
 Magnetic Field
 Electromagnetism
-Magnetic Force
-Electric Motor
-Generators
+Motor
+Generator
 
---------------------------------
+------------------------------------------------
 
-11 Modern Physics
+CHAPTER 11: Modern Physics
 
 Topics
 
-Atoms
+Atom
 Nucleus
 Radioactivity
 Semiconductors
 Quantum Physics
 
---------------------------------
+------------------------------------------------
 
-12 Space Science
+CHAPTER 12: Space Science
 
 Topics
 
@@ -187,50 +181,16 @@ Stars
 Galaxies
 Black Holes
 Space Missions
-Astrophysics
-
-CONCEPT RELATIONSHIP
-
-Motion
-↓
-Force
-↓
-Work
-↓
-Energy
-↓
-Power
-
-Electricity
-↓
-Magnetism
-↓
-Electromagnetism
-↓
-Modern Electronics
 
 SKILLS DEVELOPED
 
-Problem Solving
 Analytical Thinking
-Scientific Observation
-Critical Reasoning
-Mathematical Modelling
+Logical Thinking
+Problem Solving
+Scientific Reasoning
+Mathematical Application
 
-RELATED CAREERS
-
-Mechanical Engineer
-Civil Engineer
-Electrical Engineer
-Aerospace Engineer
-Scientist
-ISRO Scientist
-DRDO Scientist
-Defence Officer
-Researcher
-Professor
-
-REVISION FLOW
+LEARNING FLOW
 
 Chapter
 ↓
@@ -238,9 +198,9 @@ Topic
 ↓
 Concept
 ↓
-Formula
+Question
 ↓
-Questions
+Practice
 ↓
 Revision
 ↓
@@ -252,10 +212,10 @@ MASTERY RULE
 
 100% Confidence
 
-Revision Passed
+Revision Completed
 
 Within Time Limit
 
-STATUS
+VERSION
 
-Draft Version 1.0
+1.0
