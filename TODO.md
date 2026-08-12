@@ -1,24 +1,27 @@
-Task 001
+BKOS PRINCIPLES
 
-Create subject structure
+Knowledge First
 
-Status:
-Pending
+Concept First
 
--------------------------------------------------
+Mobile First
 
-Task 002
+Offline First
 
-Create topic system
+Simple First
 
-Status:
-Pending
+Build Small
 
--------------------------------------------------
+Scale Later
 
-Task 003
+Working Product > Perfect Product
 
-Create question structure
+No Duplicate Data
 
-Status:
-Pending
+No Orphan Data
+
+Every Question Must Belong To A Topic
+
+Every Topic Must Belong To A Chapter
+
+Every Chapter Must Belong To A Subject
